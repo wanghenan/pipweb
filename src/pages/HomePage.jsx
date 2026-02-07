@@ -43,7 +43,7 @@ function HomePage() {
             小红书
           </a>
           <a 
-            href="https://mindspace-ashy.vercel.app/" 
+            href="https://mindspace.xin/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn-link ai-product"
