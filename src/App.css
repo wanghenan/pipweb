@@ -193,9 +193,23 @@ body {
   color: #fff;
 }
 
-.btn-link.ai-product:hover {
-  transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
+}
+
+.btn-link.github {
+  background-color: #24292e;
+  color: #fff;
+}
+
+.btn-link.github:hover {
+  background-color: #1b1f23;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(36, 41, 46, 0.4);
+}
+
+/* 我的信息区域 */
+.info-section {
+/* 我的信息区域 */
 }
 
 /* 我的信息区域 */
