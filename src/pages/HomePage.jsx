@@ -122,7 +122,7 @@ function HomePage() {
       
       {/* Footer */}
       <footer>
-        <p>© 2026 Hernon</p>
+        <p>hernon web</p>
       </footer>
     </div>
   );
