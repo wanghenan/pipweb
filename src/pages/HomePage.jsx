@@ -122,7 +122,7 @@ function HomePage() {
       
       {/* Footer */}
       <footer>
-        <p>hernon web</p>
+        <p>hernon web v2</p>
       </footer>
     </div>
   );
