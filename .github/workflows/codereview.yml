@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: wanghenan/codereview-agent@main
+      - uses: wanghenan/codereview-agent@v1
         with:
           config: .codereview-agent.yaml
         env:
