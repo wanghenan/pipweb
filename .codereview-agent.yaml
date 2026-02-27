@@ -1,0 +1,4 @@
+llm:
+  provider: minimax
+  apiKey: ${{ secrets.LLM_API_KEY }}
+  model: abab6.5s-chat
